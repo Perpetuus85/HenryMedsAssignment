@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HenryMedsTakeHome.props" />
+</Project>
